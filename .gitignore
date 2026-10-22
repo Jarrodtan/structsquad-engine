@@ -39,3 +39,6 @@ bat-build/
 *.tmp
 *.temp
 *~
+
+# Archives
+*.zip
